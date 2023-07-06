@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AFootGolf9
 - 👀 I’m interested in backend and game Development
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on anything new or that could help me learn
 
 <!---
