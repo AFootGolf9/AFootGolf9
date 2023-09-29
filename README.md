@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d86f2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adrian+dos+Anjos;I'm+17+years+old;I'm+from+Brazil;I+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AFootGolf9&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  [<picture><source srcset="https://www.codewars.com/users/AFootGolf9/badges/small?theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"><source srcset="https://www.codewars.com/users/AFootGolf9/badges/small" media="(prefers-color-scheme: dark)"><img align="right"></picture>](https://www.codewars.com/users/AFootGolf9)
+[<picture><source srcset="https://www.codewars.com/users/AFootGolf9/badges/small?theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"><source srcset="https://www.codewars.com/users/AFootGolf9/badges/small" media="(prefers-color-scheme: dark)"><img align="right"></picture>](https://www.codewars.com/users/AFootGolf9)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AFootGolf9&show_icons=true&count_private=true&hide_border=true&title_color=0d86f2&icon_color=0d86f2&text_color=c9d1d9&bg_color=0d1117" alt="AFootGolf9 github stats" /> 
