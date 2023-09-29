@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d86f2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adrian+dos+Anjos;I'm+17+years+old;I'm+from+Brazil;I+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AFootGolf9&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AFootGolf9&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  [<picture><source srcset="https://www.codewars.com/users/AFootGolf9/badges/small?theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"><source srcset="https://www.codewars.com/users/AFootGolf9/badges/small" media="(prefers-color-scheme: dark)"><img align="right"></picture>](https://www.codewars.com/users/AFootGolf9)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AFootGolf9&show_icons=true&count_private=true&hide_border=true&title_color=0d86f2&icon_color=0d86f2&text_color=c9d1d9&bg_color=0d1117" alt="AFootGolf9 github stats" /> 
@@ -21,16 +21,7 @@
 ### Technologies I master:
 <div style="display: flex">
   <img align="center" alt="Nine-Python" src="https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Nine-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div>
-
-
-
-### Technologies I'm improving myself:
-<div style="display: flex"> 
-  <img align="center" alt="Nine-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Nine-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Nine-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Nine-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">  
 </div>
 
 
