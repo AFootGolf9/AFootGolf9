@@ -25,6 +25,10 @@
   <img align="center" alt="Nine-MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">  
 </div>
 
+### Technologies I'm learning:
+<div style="display: flex">
+  <img align="center" alt="Nine-Arch" src="https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
