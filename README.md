@@ -29,6 +29,7 @@
 <div style="display: flex">
   <img align="center" alt="Nine-Arch" src="https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
   <img align="center" alt="Nine-Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Nine-Postgres" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 <div align="center">
