@@ -20,16 +20,30 @@
  
 ### Technologies I master:
 <div style="display: flex">
-  <img align="center" alt="Nine-Python" src="https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Nine-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">  
-  <img align="center" alt="Nine-MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">  
+  <a href="https://www.python.org/">
+    <img align="center" alt="Nine-Python" src="https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://www.java.com/">
+    <img align="center" alt="Nine-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">  
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img align="center" alt="Nine-MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">  
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img align="center" alt="Nine-Postgres" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+  
 </div>
 
 ### Technologies I'm learning:
 <div style="display: flex">
-  <img align="center" alt="Nine-Arch" src="https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
-  <img align="center" alt="Nine-Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Nine-Postgres" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <a href="https://archlinux.org/">
+    <img align="center" alt="Nine-Arch" src="https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">  
+  </a>
+  <a href="https://git-scm.com/">
+    <img align="center" alt="Nine-Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+
 </div>
 
 <div align="center">
